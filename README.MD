@@ -25,4 +25,9 @@ Underline 2
 - esto es un item de lista desordenada.
 - esto es un item de lista desordenada.
 - esto es un item de lista desordenada.
-soy un readme.
+
+# links
+- <a href="http://google.com">esto es un link html</a>
+- [esto es un link en markdown](http://google.com)
+- [esto es un link al index](index.html)
+- soy un readme.
