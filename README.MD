@@ -30,4 +30,11 @@ Underline 2
 - <a href="http://google.com">esto es un link html</a>
 - [esto es un link en markdown](http://google.com)
 - [esto es un link al index](index.html)
+
+# Imagenes
+![logo github](https://thumbs.dreamstime.com/b/astana-kazajst%C3%A1n-de-julio-icono-github-logo-s%C3%ADmbolo-vector-198642058.jpg)
+
+# Code Snippets
+
+
 - soy un readme.
