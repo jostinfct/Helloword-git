@@ -60,4 +60,13 @@ Esto es otro texto dividido por aguiones bajos.
 
 ___
 
+# Saltos de linea
+ Esto es nuestro primer parrafo.
+
+ Esto es nuestro primer parrafo.
+
+ Esto es nuestro primer parrafo.
+
+ Esto es nuestro primer parrafo.
+- Lista
 - soy un readme.
