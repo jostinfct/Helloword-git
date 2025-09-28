@@ -36,5 +36,9 @@ Underline 2
 
 # Code Snippets
 
-
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| maxi | Burgos | 3546481 |
+| tomas |Tomson | 3243243 |
 - soy un readme.
