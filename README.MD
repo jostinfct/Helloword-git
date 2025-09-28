@@ -41,4 +41,11 @@ Underline 2
 | ------ | -------- | --------- |
 | maxi | Burgos | 3546481 |
 | tomas |Tomson | 3243243 |
+
+# Citas
+esto es un texto referente a una cita que podremos debajo:
+> esto es una cita.
+
+esto es otro texto que no se relaciona con la cita anterior:
+> esto es otra cita.
 - soy un readme.
