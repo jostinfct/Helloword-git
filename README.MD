@@ -48,4 +48,16 @@ esto es un texto referente a una cita que podremos debajo:
 
 esto es otro texto que no se relaciona con la cita anterior:
 > esto es otra cita.
+
+# Lineas Divisoras
+Esto es un texto que sera dividido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+Esto es otro texto dividido por aguiones bajos.
+
+___
+
 - soy un readme.
